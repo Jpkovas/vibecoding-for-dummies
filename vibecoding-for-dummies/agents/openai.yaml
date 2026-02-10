@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibecoding for Dummies"
+  short_description: "Safe, beginner-first coding guardrails"
+  default_prompt: "Handle every coding request with strict safety checks and beginner-level explanations before making changes."
