@@ -1,4 +1,4 @@
-# vibecoding-for-dummies skill repo
+# vibecoding-for-dummies skill
 
 Repository ready for installation with `npx skills`.
 
